@@ -1,4 +1,8 @@
 # Constructor-Guessing-Game
+Example: 
+
+![](C:\Users\db302_000\Documents\Coding\Constructor game.mp4)
+
 Advanced JavaScript Assignment: Constructor Word Guess
 
 Overview
