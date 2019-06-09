@@ -1,8 +1,12 @@
-# Constructor-Guessing-Game
+# Constructor-Guessing-Game (SEE IMAGES FOLDER SCREENSHOTS)
 
 
 ![](images/Constructor1.png)
 
+![](images/Constructor2.png)
+
+
+![](images/Constructor3.image
 
 
 
