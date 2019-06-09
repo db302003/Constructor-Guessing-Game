@@ -27,15 +27,10 @@ This homework assignment is optional.
 
 In this unit's assignment, you will create a Word Guess command-line game using constructor functions.
 
-Submission on BCS
-
-
-Please submit the link to the Github Repository!
 
 Instructions
 
 The completed game should meet the following criteria:
-
 
 The completed game should be able to receive user input using the inquirer or prompt npm packages.
 Your solution should have, at minimum, three files:
