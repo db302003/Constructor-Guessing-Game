@@ -1,8 +1,7 @@
 # Constructor-Guessing-Game
 
 
-
-        ![](C:\Users\db302_000\Desktop\images\Constructor1.png)
+![](images/Constructor1.png)
 
 
 
