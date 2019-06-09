@@ -1,7 +1,7 @@
 # Constructor-Guessing-Game
 Example: 
 
-![](C:\Users\db302_000\Pictures\Constructor1.png)
+![](images\Constructor1.png)
 
 
 
