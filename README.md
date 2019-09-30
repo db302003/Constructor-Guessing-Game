@@ -1,4 +1,4 @@
-# Constructor-Guessing-Game (SEE IMAGES FOLDER SCREENSHOTS)
+# Constructor-Guessing-Game #
 
 
 ![](images/Constructor1.png)                                                              ![](images/Constructor2.png)
@@ -19,16 +19,15 @@
 
 
 
-Assignment: Constructor Word Guess
+## Constructor Word Guess ##
 
-Overview
 
-This homework assignment is optional.
+### Overview
 
 In this unit's assignment, you will create a Word Guess command-line game using constructor functions.
 
 
-Instructions
+### Instructions
 
 The completed game should meet the following criteria:
 
@@ -45,7 +44,6 @@ A function that returns the underlying character if the letter has been guessed,
 A function that takes a character as an argument and checks it against the underlying character, updating the stored boolean value to true if it was guessed correctly
 
 
-
 Word.js: Contains a constructor, Word that depends on the Letter constructor. This is used to create an object representing the current word the user is attempting to guess. That means the constructor should define:
 
 
@@ -56,29 +54,18 @@ A function that takes a character as an argument and calls the guess function on
 
 index.js: The file containing the logic for the course of the game, which depends on Word.js and:
 
-
 Randomly selects a word and uses the Word constructor to store it
 Prompts the user for each guess and keeps track of the user's remaining guesses
 
 
 Letter.js should not require any other files.
 Word.js should only require Letter.js
-HINT: Write Letter.js first and test it on its own before moving on, then do the same thing with Word.js
-HINT: If you name your letter's display function toString, JavaScript will call that function automatically whenever casting that object to a string (check out this example: https://jsbin.com/facawetume/edit?js,console)
 
-
-Notes
-
-
-Since this assignment is a command-line application, you don't need to deploy it anywhere. You will, however, be required to upload it to Github.
-Remember to include a package.json file containing your project dependencies in your Github repo!
+*HINT: Write Letter.js first and test it on its own before moving on, then do the same thing with Word.js
+*HINT: If you name your letter's display function toString, JavaScript will call that function automatically whenever casting that object to a string (check out this example:  https://jsbin.com/facawetume/edit?js,console)
 
 
 
-Reminder: Submission on BCS
+### Notes
 
-
-Please submit the link to the Github Repository!
-
-
-
+Since this assignment is a command-line application, you don't need to deploy it anywhere. 
